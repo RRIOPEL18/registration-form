@@ -2,6 +2,11 @@ html {
   font-family: sans-serif;
 }
 
+h1 {
+  position: relative;
+  text-decoration: underline;
+}
+
 .contact {
   background-color: #f2f2f2;
 }
